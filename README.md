@@ -5,7 +5,7 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white "Bootstrap")](https://getbootstrap.com/)
 [![Blade](https://img.shields.io/badge/Blade-000000?style=for-the-badge&logo=laravel&logoColor=white "Blade")](https://laravel.com/docs/10.x/blade)
 
-Sistem Peminjaman Barang Berbasis Web ini adalah aplikasi web sederhana yang dibangun dengan PHP menggunakan framework Laravel.  Aplikasi ini dirancang untuk memfasilitasi pengelolaan peminjaman barang, meskipun deskripsi awalnya minim. Dengan mengandalkan struktur file dan tag yang tersedia, kita bisa menyimpulkan bahwa aplikasi ini kemungkinan besar melibatkan otentikasi pengguna, manajemen data barang, dan antarmuka pengguna yang dibangun dengan Blade dan Bootstrap.
+Sistem Peminjaman Barang Berbasis Web ini adalah aplikasi web sederhana yang dibangun dengan PHP menggunakan framework Laravel.  Aplikasi ini dirancang untuk memfasilitasi pengelolaan peminjaman barang.
 
 ## Fitur Utama ✨
 
